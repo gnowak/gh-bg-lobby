@@ -1,0 +1,1 @@
+{"version":3,"sources":["GameCollection.css"],"names":[],"mappings":"AAEA,UACE,UAAW,CACX,qBACF","file":"main.0362b8ed.chunk.css","sourcesContent":[".odd-row {\n}\n.even-row {\n  color: #fff;\n  background-color: #000;\n}\n"]}
